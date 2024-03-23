@@ -1,4 +1,4 @@
-# Simple Flask App
+# Simple Flask App 
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
@@ -10,7 +10,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ python -m venv .venv
 
   # aktywowanie hermetycznego środowiska
-  $ source .venv/Source/activate
+  $ source .venv/Scripts/activate
   $ pip install -r requirements.txt
   $ pip install -r test_requirements.txt
 
